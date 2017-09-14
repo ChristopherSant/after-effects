@@ -1,0 +1,27 @@
+<svg width="340" height="132" viewBox="0 0 340 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>v_brand_hover</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 1866 740)">
+<g id="v_brand_hover">
+<g id="Rectangle 2" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-921 -362)" fill="#EBEBEB"/>
+</g>
+<g id="Ford">
+<use xlink:href="#path1_fill" transform="translate(-921 -352)" fill="#18D0FD"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-933" y="-370" width="170" height="66" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="6"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0941176 0 0 0 0 0.815686 0 0 0 0 0.992157 0 0 0 0.32 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 142 0C 144.209 0 146 1.79086 146 4L 146 38C 146 40.2091 144.209 42 142 42L 4 42C 1.79086 42 0 40.2091 0 38L 0 4Z"/>
+<path id="path1_fill" d="M 56.7563 16L 59.1243 16L 59.1243 11.952L 62.7243 11.952L 62.7243 9.968L 59.1243 9.968L 59.1243 7.552L 63.3483 7.552L 63.3483 5.568L 56.7563 5.568L 56.7563 16ZM 64.8501 12.032C 64.8501 14.672 66.7061 16.192 68.7221 16.192C 70.7221 16.192 72.5781 14.672 72.5781 12.032C 72.5781 9.392 70.7221 7.872 68.7221 7.872C 66.7061 7.872 64.8501 9.392 64.8501 12.032ZM 67.2661 12.032C 67.2661 10.656 67.7461 9.776 68.7221 9.776C 69.6821 9.776 70.1781 10.656 70.1781 12.032C 70.1781 13.408 69.6821 14.288 68.7221 14.288C 67.7461 14.288 67.2661 13.408 67.2661 12.032ZM 74.8291 16L 77.1811 16L 77.1811 11.392C 77.5971 10.32 78.3331 9.936 78.9251 9.936C 79.2611 9.936 79.5011 9.984 79.7891 10.064L 80.1731 8.032C 79.9491 7.936 79.6771 7.872 79.2291 7.872C 78.4131 7.872 77.5491 8.384 76.9731 9.456L 76.9091 9.456L 76.7491 8.064L 74.8291 8.064L 74.8291 16ZM 81.2718 12.032C 81.2718 14.624 82.5518 16.192 84.5198 16.192C 85.2878 16.192 86.0718 15.776 86.6318 15.216L 86.6958 15.216L 86.8558 16L 88.7758 16L 88.7758 4.784L 86.4238 4.784L 86.4238 7.488L 86.5198 8.704C 85.9758 8.192 85.4478 7.872 84.5678 7.872C 82.8878 7.872 81.2718 9.44 81.2718 12.032ZM 83.6878 12C 83.6878 10.496 84.3598 9.792 85.1118 9.792C 85.5438 9.792 86.0078 9.92 86.4238 10.304L 86.4238 13.552C 86.0398 14.08 85.6398 14.272 85.1278 14.272C 84.2158 14.272 83.6878 13.568 83.6878 12Z"/>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="586" height="84" viewBox="0 0 586 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>field</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 -434 -2644)">
+<g id="field">
+<use xlink:href="#path0_fill" transform="translate(217 1322)" fill="#EBEBEB"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(217 1322)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(217 1322)" fill="#9B9B9B"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 4C 0 1.79086 1.79086 0 4 0L 289 0C 291.209 0 293 1.79086 293 4L 293 38C 293 40.2091 291.209 42 289 42L 4 42C 1.79086 42 0 40.2091 0 38L 0 4Z"/>
+<path id="path1_stroke_2x" d="M 4 1L 289 1L 289 -1L 4 -1L 4 1ZM 292 4L 292 38L 294 38L 294 4L 292 4ZM 289 41L 4 41L 4 43L 289 43L 289 41ZM 1 38L 1 4L -1 4L -1 38L 1 38ZM 4 -1C 1.23858 -1 -1 1.23858 -1 4L 1 4C 1 2.34315 2.34315 1 4 1L 4 -1ZM 289 1C 290.657 1 292 2.34315 292 4L 294 4C 294 1.23858 291.761 -1 289 -1L 289 1ZM 292 38C 292 39.6569 290.657 41 289 41L 289 43C 291.761 43 294 40.7614 294 38L 292 38ZM 4 41C 2.34315 41 1 39.6569 1 38L -1 38C -1 40.7614 1.23858 43 4 43L 4 41Z"/>
+</defs>
+</svg>
